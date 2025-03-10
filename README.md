@@ -8,7 +8,7 @@ The input format is defined as follows.
 * The second line specifies the number of nodes `n`, followed by the coordinates (`x y`) of each node on separate lines.
 #### Input Format
 ```
-[boundary_xl] [boundary_yh] [boundary_xh] [boundary_yh]
+[boundary_xl] [boundary_yl] [boundary_xh] [boundary_yh]
 [node_count]
 [x1] [y1]
 [x2] [y2]
